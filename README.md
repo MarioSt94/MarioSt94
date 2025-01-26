@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mario Stojkovski
-- 👀 I’m interested in entry level frontend position
-- 🌱 I’m currently learning React.js
+- 👀 I’m Front end developer
 - 📫 You can find my contact infromation on https://stojkovski.mk
